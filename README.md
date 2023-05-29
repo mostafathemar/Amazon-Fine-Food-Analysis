@@ -15,7 +15,7 @@ The dataset used in this project is the [Amazon Fine Food Reviews](https://www.k
 - Numpy
 - Matplotlib
 - Seaborn
-- 
+
 ##  Data Loading and Preprocessing
 The data for this project was loaded from the Amazon Fine Food Reviews dataset. The following preprocessing steps were applied:
 
@@ -39,7 +39,7 @@ Several machine learning models were trained on the data, including:
 3. Support Vector Machine (SVM)
 4. Random Forest Classifier
 5. Gradient Boosting Classifier
-6. 
+
 Hyperparameter tuning was performed using RandomizedSearchCV to optimize the performance of the models. The models were then evaluated based on their accuracy, precision, recall, and F1-score. The best performing model was saved for future use.
 
 ## Conclusion and Next Steps
