@@ -43,7 +43,7 @@ Several machine learning models were trained on the data, including:
 Hyperparameter tuning was performed using RandomizedSearchCV to optimize the performance of the models. The models were then evaluated based on their accuracy, precision, recall, and F1-score. The best performing model was saved for future use.
 
 ## Conclusion and Next Steps
-The best performing model was the Logistic Regression model with an accuracy of 99%.
+The best performing model was the RandomForest model with an accuracy of 99%.
 
 Possible future improvements to this project include:
 
