@@ -62,7 +62,6 @@ Possible future improvements to this project include:
 ## Project Structure
 
 - `amazon_food_review_analysis.ipynb`: This Jupyter notebook contains all the code for the project.
-- `Reviews.csv`: This is the Amazon Fine Food Reviews dataset. You'll need to download this from Kaggle.
 - `README.md`: This README file provides information about the project.
 - `requirements.txt`: This file lists the Python packages that you need to run the project.
 
