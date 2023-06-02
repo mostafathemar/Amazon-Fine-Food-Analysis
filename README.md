@@ -66,10 +66,6 @@ Possible future improvements to this project include:
 - `README.md`: This README file provides information about the project.
 - `requirements.txt`: This file lists the Python packages that you need to run the project.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments
 
 - Thanks to Kaggle for the dataset.
